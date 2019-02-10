@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Holly Quran</string>
+    <string name="title_activity_suar_quran__sb7a">Suar_quran_Sb7a</string>
+    <string name="title_home">القرأن الكريم</string>
+    <string name="title_dashboard">السبحه الألكترونيه</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
